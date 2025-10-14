@@ -45,9 +45,9 @@
 
 ---
 
-## **2. Understanding Large Language Models (LLMs)**
+### **2. Understanding Large Language Models (LLMs)**
 
-### 🔹 What Are LLMs?
+**🔹 What Are LLMs?**
 
 - LLMs are **prediction engines** that:
     1. Take your text input (prompt).
