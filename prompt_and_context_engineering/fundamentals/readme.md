@@ -1,5 +1,4 @@
 # **a. Fundamentals**
-1. [How LLM Works](#how-llms-work-top-10-executive-level-Questions)
 
 ### 1. What is Prompt Engineering?
 
@@ -53,6 +52,8 @@
     2. Predict the **next most likely word or token**.
     3. Continue predicting to form a complete response.
 - They learn patterns from **large datasets** during training.
+
+#### - [How LLM Works](#how-llms-work-top-10-executive-level-Questions)
 
 ---
 
