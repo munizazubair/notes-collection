@@ -1,24 +1,24 @@
 # **a. Fundamentals**
 
-### 1. What is Prompt Engineering?
+### **1. What is Prompt Engineering?**
 
-- It is the **art and science of crafting instructions** for AI models (like ChatGPT) to produce desired outputs.
+- The **art and science of crafting instructions** for AI models (like ChatGPT) to produce the desired output.
 - In simple words, it’s *how you ask* the AI to do something.
 - **Goal:** ➡️ To **tell the model how to behave and what to produce.**
 
 **Why it matters:**
 
 - You don’t need to be a programmer.
-- A well-written prompt gives much better and more accurate results.
-- It’s an important skill for productivity and AI-related careers.
+- A well-written prompt gives better, clearer, and more accurate results.
+- It’s a key skill for **productivity, communication, and AI-related careers.**
 
 ---
 
-### 🔹 What is Context Engineering?
+### 🔹 **What is Context Engineering?**
 
-- It means **providing relevant facts, documents, or data** that the model uses to give correct and grounded answers.
-- In simple words, it’s *what you show* the AI to help it answer correctly.
-- **Goal:** ➡️ To **give the model the right information or facts** it should rely on when answering.
+- It means **providing relevant facts, data, or documents** that the model uses to answer correctly.
+- In simple words, it’s *what you show* the AI to help it respond accurately.
+- **Goal:** ➡️ To **supply the model with the right information** it should rely on when generating responses.
 
 ---
 
@@ -26,20 +26,21 @@
 
 | Aspect | Prompt Engineering | Context Engineering |
 | --- | --- | --- |
-| **Goal** | How to guide the model’s behavior | What info the model should use |
-| **Focus** | Wording, structure, examples | Documents, data, tools, memory |
+| **Goal** | Guide model behavior | Supply correct information |
+| **Focus** | Wording, tone, examples | Data, documents, memory, tools |
 | **Example** | “Be brief. Output JSON.” | “Use info from this PDF.” |
-| **Common issue** | Unclear prompt → bad output | Missing data → hallucinations |
+| **Common issue** | Unclear prompt → poor output | Missing data → hallucinations |
 | **One-liner** | 🗣️ **How you ask** | 📄 **What you show** |
 
 ---
 
 ### ⚙️ **How They Work Together**
 
-1. **Start with a good prompt** → The **prompt guides** the model’s behavior.
-2. **Add grounding context** → The **context supplies** the knowledge.
+1. **Start with a strong prompt** → guides *how* the model responds.
+2. **Add grounding context** → provides *what* the model should use.
+3. Together, they make the response both **accurate and relevant.**
 
-➡️ You usually need both together for best results.
+➡️ You usually need **both** for best results.
 
 ---
 
@@ -48,10 +49,10 @@
 **🔹 What Are LLMs?**
 
 - LLMs are **prediction engines** that:
-    1. Take your text input (prompt).
-    2. Predict the **next most likely word or token**.
-    3. Continue predicting to form a complete response.
-- They learn patterns from **large datasets** during training.
+    1. Take your text input (*prompt*).
+    2. Predict the **next most likely token (word or symbol)**.
+    3. Continue predicting until the response is complete.
+- They learn these patterns from **large amounts of text data** during training.
 
 #### - [How LLM Works](#how-llms-work-top-10-executive-level-Questions)
 
@@ -59,30 +60,26 @@
 
 ### **3. Common Failure Modes**
 
-1. **Hallucinations:**
-    - When the model creates false or imaginary information due to missing or irrelevant context.
-2. **Messy Outputs:**
-    - Caused by vague or unclear prompts.
-3. **Outdated or Inaccurate Info:**
-    - When the model isn’t properly grounded with fresh or correct data.
+1. **Hallucinations** → False or imaginary info due to weak or missing context.
+2. **Messy Outputs** → Caused by vague or poorly structured prompts.
+3. **Outdated Info** → When the model isn’t grounded with up-to-date context or data.
 
 ---
 
-### **4. Recommended Workflows**
+### **4. Recommended Workflow**
 
-1. **Start with a clear prompt** (define the task, tone, and structure).
-2. **Then ground it with context** (add documents, data, or tools).
-3. **In agentic systems:**
-    - Feed tool or API outputs back into context for the next step.
-4. Always **iterate and test** prompts for best performance.
+1. **Start with a clear prompt** — define task, tone, and format.
+2. **Add grounding context** — include data, documents, or background.
+3. **In agentic systems:** feed tool or API results back into the context for the next step.
+4. **Iterate and test** — refining prompts gives better results.
 
 ---
 
-### 5. Key Concept — “Sophisticated Autocomplete”
+### **5. Key Concept — “Sophisticated Autocomplete”**
 
-- LLMs don’t **understand** like humans.
-- They **predict** what should come next based on the given input.
-- That’s why **your prompt and context** matter so much — they set up the right “autocomplete environment.”
+- LLMs don’t *understand* like humans — they *predict* what should come next.
+- The quality of their prediction depends on the **prompt and context** you provide.
+- So, prompting isn’t just asking — it’s *setting up the right environment* for accurate prediction.
 
 ---
 
