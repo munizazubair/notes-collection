@@ -1,5 +1,5 @@
 # **a. Fundamentals**
-1. [How LLM Works](#How LLMs Work Top 10 Executive-Level Questions)
+1. [How LLM Works](#how-llms-work-top-10-executive-level-Questions)
 
 ### 1. What is Prompt Engineering?
 
