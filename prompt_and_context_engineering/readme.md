@@ -7,3 +7,7 @@ b. [Configuration](https://github.com/munizazubair/notes-collection/blob/main/pr
 c. [Prompting Techniques](https://github.com/munizazubair/notes-collection/blob/main/prompt_and_context_engineering/c.%20Prompting_Techniques/readme.md)
 
 d. [Best Practices & Pitfalls](https://github.com/munizazubair/notes-collection/blob/main/prompt_and_context_engineering/d.%20Best_Practices_%26_Pitfalls/readme.md)
+
+e. [Testing and Evaluation](https://github.com/munizazubair/notes-collection/blob/main/prompt_and_context_engineering/e.%20Testing_and_Evaluation/readme.md)
+
+f. [Advanced Techniques and Tips](https://github.com/munizazubair/notes-collection/blob/main/prompt_and_context_engineering/f.%20Advanced_Techniques_and_Tips/readme.md)
