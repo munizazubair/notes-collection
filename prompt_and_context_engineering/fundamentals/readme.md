@@ -1,5 +1,3 @@
-# **Prompt and Context Engineering**
-
 # **a. Fundamentals**
 
 ### 1. What is Prompt Engineering?
