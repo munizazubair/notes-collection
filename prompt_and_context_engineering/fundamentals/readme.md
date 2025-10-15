@@ -85,7 +85,7 @@
 
 ---
 
-## How LLMs Work: Top 10 Executive-Level Questions 
+# How LLMs Work: Top 10 Executive-Level Questions 
 
 ### **1. How does an LLM decide when to stop?**
 
