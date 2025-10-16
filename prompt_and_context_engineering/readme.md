@@ -13,3 +13,6 @@ e. [Testing and Evaluation](https://github.com/munizazubair/notes-collection/blo
 f. [Advanced Techniques and Tips](https://github.com/munizazubair/notes-collection/blob/main/prompt_and_context_engineering/f.%20Advanced_Techniques_and_Tips/readme.md)
 
 g. [Mixture-of-Experts (MoE) & Prompting](https://github.com/munizazubair/notes-collection/blob/main/prompt_and_context_engineering/g.%20Mixture_of_Experts_(MoE)_%26_Prompting/readme.md)
+
+h. [Practical Application](https://github.com/munizazubair/notes-collection/blob/main/prompt_and_context_engineering/h.%20Practical_Application/readme.md)
+
