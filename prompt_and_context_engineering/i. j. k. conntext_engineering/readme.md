@@ -169,15 +169,3 @@ Context engineering = **instruction manual + memory + toolbox** that enables AI 
 
 ---
 
-These notes now **cover all the topics you mentioned**:
-
-* Context engineering basics and evolution
-* 6 AI agent components and their relation to context
-* RAG integration
-* Multi-agent systems
-* Advanced strategies including architecture, optimization, memory, security, temporal reasoning, and trade-offs
-* Real-world example (AI research assistant)
-* Guardrails, best practices, and iterative improvement
-
----
-
