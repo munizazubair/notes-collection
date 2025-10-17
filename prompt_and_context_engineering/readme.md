@@ -16,3 +16,4 @@ g. [Mixture-of-Experts (MoE) & Prompting](https://github.com/munizazubair/notes-
 
 h. [Practical Application](https://github.com/munizazubair/notes-collection/blob/main/prompt_and_context_engineering/h.%20Practical_Application/readme.md)
 
+i. j. k. [Context Engineering](https://github.com/munizazubair/notes-collection/blob/main/prompt_and_context_engineering/i.%20j.%20k.%20conntext_engineering/readme.md)
